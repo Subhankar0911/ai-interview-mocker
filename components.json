@@ -1,0 +1,16 @@
+{
+  "components": [
+    {
+      "name": "dialog",
+      "path": "components/ui/dialog.jsx"
+    },
+    {
+      "name": "input",
+      "path": "components/ui/input.jsx"
+    },
+    {
+      "name": "textarea",
+      "path": "components/ui/textarea.jsx"
+    }
+  ]
+}
